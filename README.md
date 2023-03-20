@@ -11,6 +11,7 @@ Welcome to the AirBnB clone project!
 ```
 
 ![AirBnB](assets/hbnb_logo.png)
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/263/HBTN-hbnb-Final.png)
 
 
 ## Project Description
@@ -113,3 +114,6 @@ This repository contains the following files:
 | models/engine/ | file_storage.py | Serializes instances to a JSON file and deserializes JSON file to instances |
 | To be updated |
 
+##Authors
+- Abel Negash <abelnegash2015@gmail.com>
+- Uwem Unak <anthonyunak@gmail.com>
